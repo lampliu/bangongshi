@@ -10,8 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
-    hello word  liu   5555555
-        ?>
+        <?php echo "<pre hello >";liu ?>
     </body>
 </html>
